@@ -1,3 +1,7 @@
+# MapScreenshotTool 使用示例 源码在master分支
+ 
+## 根据WKT或GeoJSON格式的地图坐标及网片影像源生成地图截图
+
 # MapScreenshotTool Usage Example
 
 ## Generating Map Screenshots Based on WKT or GeoJSON Coordinates and Tile Image Source
